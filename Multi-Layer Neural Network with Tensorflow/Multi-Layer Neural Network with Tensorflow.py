@@ -1,7 +1,4 @@
-# Mittal, Shefali
-# 1002_055_262
-# 2023_03_19
-# Assignment_02_01
+
 import numpy as np
 import tensorflow as tf
 
